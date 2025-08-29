@@ -28,7 +28,7 @@ It fetches real-time exchange rates using the [Currency API](https://github.com/
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to use the app](https://shrishti08012004.github.io/CurrencyConverter/)
+👉 [Click here to use the app] https://shrishti08012004.github.io/Currency-Converter/
 
 ---
 
